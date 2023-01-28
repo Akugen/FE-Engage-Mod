@@ -12,7 +12,10 @@
 请勿将本库内容转载至任何相关国外论坛与社区，也禁止本库内容在任何相关国外论坛与社区出现（是哪些国外论坛与社区就不指名道姓了，有数就好）
 
 若以下几位大佬愿意，本库内容仅可由：
-火焰纹章 Engage Mod 交流群 群主大佬（群主和群友给了我很多启示与帮助） 他的 Engage Mods：https://github.com/AraragiHoozuki/FE-Engage-mods
+
+火焰纹章 Engage Mod 交流群 群主大佬（群主和群友给了我很多启示与帮助） 
+
+他的 Engage Mods：https://github.com/AraragiHoozuki/FE-Engage-mods
 
 xxxxx520的作者（虽然我不认识这位大佬）
 
