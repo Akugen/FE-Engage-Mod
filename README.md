@@ -1,7 +1,17 @@
 # FE-Engage-Mod
 自制的一些火焰纹章Engage的Mod
 
-## 更新记录：
+## 下一步
+
+**[ ] 后期重复角色加入是否会引起bug，仍有待测试**
+
+[ ] 琉尔，贝雷特，米卡雅的技能问题，可能视其他解决方案的存在情况不用解决
+
+[ ] 红色戒指消失问题
+
+[x] 2023.01.30 V4 加入了四王国国王，尝试加入神威（作为战斗角色而非纹章士），并解决其武器问题
+
+## 更新记录
 
 2023.01.30 更新assettable部分，推测此部分bug较少或不存在，但请注意未经较多测试，请做好备份
 
@@ -18,8 +28,6 @@
 DO NOT reprint the content of this Repository to any relevant forum and community outside China, 
 
 and PROHIBIT the content of this Repository from appearing in any relevant forum and community outside China, 
-
-but that's OK to reprint the link to this Repository
 
 若以下几位大佬愿意，本库内容仅可由：
 
