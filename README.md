@@ -25,6 +25,8 @@
 
 ## 其他
 
+本内容纯属个人乐趣进行学习
+
 请勿将本库内容转载至任何相关国外论坛与社区，也禁止本库内容在任何相关国外论坛与社区出现（是哪些国外论坛与社区就不指名道姓了，有数就好）
 
 DO NOT reprint the content of this Repository to any relevant forum and community outside China, 
