@@ -1,4 +1,4 @@
-assettable.xml.bundle v.1.1.0 Mod By：KanaderuAria，DFFHi-v
+# assettable.xml.bundle v.1.1.0 Mod By：KanaderuAria，DFFHi-v
 
 本部分据个人爱好修改了
 
